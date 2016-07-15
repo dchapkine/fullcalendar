@@ -2,6 +2,7 @@
 
 ... with vertical day views
 
+
 A full-sized drag & drop event calendar (jQuery plugin).
 
 - [Project website and demos](http://fullcalendar.io/)
